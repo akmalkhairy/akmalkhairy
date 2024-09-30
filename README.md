@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akmalkhairy
 - 👀 I’m interested in building things
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on building softwares and startups
 - 📫 How to reach me: Instagram: akmalkhairy_
 - ⚡ Fun fact: I can bend my thumbs more than 90 degree xD
